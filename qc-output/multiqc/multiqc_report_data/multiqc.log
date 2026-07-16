@@ -1,0 +1,36 @@
+[2026-07-10 12:32:47,016] multiqc                                            [DEBUG  ]  This is MultiQC v1.21
+[2026-07-10 12:32:47,016] multiqc                                            [DEBUG  ]  Command used: /opt/anaconda3/envs/rnaseq-python-pipeline/bin/multiqc ./qc-output/fastqc --outdir ./qc-output/multiqc --filename multiqc_report --force --quiet
+[2026-07-10 12:32:47,226] multiqc                                            [WARNING]  MultiQC Version v1.35 now available!
+[2026-07-10 12:32:47,227] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.35, released 2026-05-13
+[2026-07-10 12:32:47,227] multiqc                                            [DEBUG  ]  Working dir : /Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome
+[2026-07-10 12:32:47,227] multiqc                                            [DEBUG  ]  Template    : default
+[2026-07-10 12:32:47,227] multiqc                                            [DEBUG  ]  Running Python 3.11.9 | packaged by conda-forge | (main, Apr 19 2024, 18:45:13) [Clang 16.0.6 ]
+[2026-07-10 12:32:47,228] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, isoseq, lima, peddy, somalier, methylqa, mosdepth, phantompeakqualtools, qualimap, bamdst, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, mapdamage, biobambam2, jcvi, mtnucratio, picard, vep, bakta, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, seqera_cli, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, truvari, megahit, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, freyja, humid, kat, leehom, librarian, nonpareil, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, sourmash, kaiju, bracken, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap, spaceranger, xenome, xengsort, metaphlan, seqwho
+[2026-07-10 12:32:47,228] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /var/folders/0v/480p2y7d45n9yymk9j71bf100000gn/T/tmpav_x7x61
+[2026-07-10 12:32:47,230] multiqc                                            [INFO   ]  Search path : /Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc
+[2026-07-10 12:32:47,642] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 319] // [skipped_no_match: 286]
+[2026-07-10 12:32:47,692] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108976_fastqc.zip' as already parsed 'SRR36108976'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108973_fastqc.zip' as already parsed 'SRR36108973'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108981_fastqc.zip' as already parsed 'SRR36108981'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108979_fastqc.zip' as already parsed 'SRR36108979'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108974_fastqc.zip' as already parsed 'SRR36108974'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108971_fastqc.zip' as already parsed 'SRR36108971'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108972_fastqc.zip' as already parsed 'SRR36108972'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108980_fastqc.zip' as already parsed 'SRR36108980'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108977_fastqc.zip' as already parsed 'SRR36108977'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108982_fastqc.zip' as already parsed 'SRR36108982'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'SRR36108978_fastqc.zip' as already parsed 'SRR36108978'
+[2026-07-10 12:32:47,901] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 11 reports
+[2026-07-10 12:32:47,902] multiqc.utils.util_functions                       [DEBUG  ]  Wrote data file multiqc_fastqc.txt
+[2026-07-10 12:32:47,984] multiqc.plots.plotly.heatmap                       [DEBUG  ]  Heatmap size: 495x495, px per element: 45.00x45.00
+[2026-07-10 12:32:47,989] multiqc.utils.software_versions                    [DEBUG  ]  Reading software versions from config.software_versions
+[2026-07-10 12:32:47,989] multiqc.utils.util_functions                       [DEBUG  ]  Wrote data file multiqc_software_versions.txt
+[2026-07-10 12:32:47,999] multiqc.utils.util_functions                       [DEBUG  ]  Wrote data file multiqc_general_stats.txt
+[2026-07-10 12:32:47,999] multiqc                                            [DEBUG  ]  Compressing plot data
+[2026-07-10 12:32:48,107] multiqc.utils.util_functions                       [DEBUG  ]  Wrote data file multiqc_data.json
+[2026-07-10 12:32:48,107] multiqc                                            [INFO   ]  Report      : qc-output/multiqc/multiqc_report.html
+[2026-07-10 12:32:48,107] multiqc                                            [INFO   ]  Data        : qc-output/multiqc/multiqc_report_data
+[2026-07-10 12:32:48,107] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/0v/480p2y7d45n9yymk9j71bf100000gn/T/tmpav_x7x61/multiqc_data' to '/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/multiqc/multiqc_report_data'
+[2026-07-10 12:32:48,109] multiqc                                            [DEBUG  ]  Full report path: /Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/multiqc/multiqc_report.html
+[2026-07-10 12:32:48,193] multiqc                                            [INFO   ]  MultiQC complete

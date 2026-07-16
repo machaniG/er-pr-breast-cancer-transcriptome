@@ -1,0 +1,12 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR36108976	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108976_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108978	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108978_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108974	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108974_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108972	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108972_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108981	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108981_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108977	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108977_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108979	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108979_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108971	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108971_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108982	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108982_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108980	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108980_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR36108973	/Users/gechemba/Documents/bio-ds-ml/raw sequencing data/breast-cancer-phenotypes/er-pr-breast-cancer-transcriptome/qc-output/fastqc/SRR36108973_fastqc/fastqc_data.txt

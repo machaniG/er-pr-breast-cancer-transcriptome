@@ -1,0 +1,36 @@
+name: rnaseq-python-pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  # Preprocessing Tools (Bioconda)
+  - fastqc=0.12.1
+  - fastp=0.23.4
+  - salmon=1.10.0
+  - multiqc=1.21
+  - pytximport = 0.9.0
+  # Python Data Processing Stack 
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - openpyxl=3.1.2
+  # Differential Expression (PyDESeq2) 
+  - pydeseq2=0.5.4
+  - formulaic=1.0.1
+  # Pathway & Enrichment Analysis 
+  - gseapy=1.1.3
+  - requests=2.32.3
+  - mygene
+  # Visualization 
+  - scikit-learn=1.5.0
+  - matplotlib=3.8.4
+  - seaborn=0.13.2
+  - adjusttext=1.1.1
+  - jupyterlab
+  - plotly
+
+  # create env with mamba: mamba env create -f environment.yml
+  # create env with conda: conda install -n base -c conda-forge mamba
+  
