@@ -30,6 +30,7 @@ dependencies:
   - adjusttext=1.1.1
   - jupyterlab
   - plotly
+  - matplotlib-venn
 
   # create env with mamba: mamba env create -f environment.yml
   # create env with conda: conda install -n base -c conda-forge mamba

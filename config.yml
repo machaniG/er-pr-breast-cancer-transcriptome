@@ -1,0 +1,26 @@
+fit_dir: ./deseq2_fit
+out_dir: ./deseq2_fit/deseq2_results
+model_file: ./deseq2_fit/fitted_dds_anndata.pkl
+
+counts_file: ./gene-counts/gene_level_counts.csv
+metadata_file: ./sample_metadata.csv
+
+genotype_col: genotype
+treatment_col: treatment
+reference_genotype: WT
+mutant_genotype: Y537S
+reference_treatment: shGFP
+alt_treatment: shPR
+
+padj_threshold: 0.05
+log2fc_threshold: 1.0
+min_total_count: 10
+n_cpus: 4
+
+
+contrasts:
+  WT_shPR_vs_shGFP: [0, 0, 1, 0]
+  mutant_vs_WT_shGFP: [0, 1, 0, 0]
+  interaction: [0, 0, 0, 1]
+  mutant_shPR_vs_shGFP: [0, 0, 1, 1]
+  mutant_vs_WT_shPR: [0, 1, 0, 1]
