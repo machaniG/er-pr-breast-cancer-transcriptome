@@ -76,10 +76,10 @@ In contrast, upregulated pathways are dominated by antiviral/interferon-associat
 
 ### Compensatory Proteostasis: Selective Induction of PSMB8
 
-Notably, **PSMB8** was strongly induced (**18.2 log2FC**) in ESR1 mutation × PR knockdown interaction despite belonging to the otherwise downregulated proteasomal protein catabolic process, suggesting a pathway-level suppression with a gene-specific compensatory response. PSMB8 is a core component of the immunoproteasome, a specialized "emergency" version of the garbage disposal that the cell only builds under extreme stress or during an immune response. PR has been reported to have anti-inflammatory functions in some breast cancer contexts. Loss of PR could therefore release interferon-associated transcription, especially in the ESR1 mutant background. Selective induction of PSMB8, together with enrichment of IL-27 and antiviral pathways, suggest activation of an interferon-driven immunoproteasome response rather than maintenance of the standard proteasome machinery.
+**PSMB8** was induced in ESR1 mutation × PR knockdown interaction despite belonging to the otherwise downregulated proteasomal protein catabolic process, suggesting a pathway-level suppression with a gene-specific compensatory response. PSMB8 is a core component of the immunoproteasome, a specialized "emergency" version of the garbage disposal that the cell only builds under extreme stress or during an immune response. PR has been reported to have anti-inflammatory functions in some breast cancer contexts. Loss of PR could therefore release interferon-associated transcription, especially in the ESR1 mutant background. Selective induction of PSMB8, together with enrichment of IL-27 and antiviral pathways, suggest activation of an interferon-driven immunoproteasome response rather than maintenance of the standard proteasome machinery.
 
 
-Collectively, these results confirm that in the context of mutant ER, PR regulates a distinct set of genes compared to wild-type ER.
+Collectively, these results suggest that in the context of mutant ER, PR regulates a distinct set of genes compared to wild-type ER.
 
 ----
 
